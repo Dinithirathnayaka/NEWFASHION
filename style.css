@@ -1,0 +1,86 @@
+nav {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+nav a span {
+  color: red;
+}
+
+nav .navbar-nav {
+  padding-left: 200px;
+}
+
+.card.bg-dark {
+  text-align: center;
+}
+
+.card.bg-dark h5 {
+  margin-top: 200px;
+  color: red;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.card.bg-dark h1 {
+  color: #444343;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.card.bg-dark img {
+  height: 700px;
+}
+
+.container .col-12 img {
+  width: 60%;
+}
+
+.container .btn {
+  background-color: red;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+
+.container h6 {
+  color: #000033;
+}
+
+.container ul li:hover {
+  color: red;
+}
+
+.container .jumbotron {
+  background-color: #f1f1f1;
+  height: 200px;
+  padding: 20px;
+}
+
+.container .jumbotron h5 {
+  color: #000033;
+}
+
+.container .jumbotron .btn {
+  background-color: red;
+  color: #ffffff;
+  margin-left: 70%;
+}
+
+.container .jumbotron .btn:hover {
+  background-color: black;
+}
+
+footer .container .inner-content {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.card .card-footer {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
