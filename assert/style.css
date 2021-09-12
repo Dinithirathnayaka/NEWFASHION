@@ -34,7 +34,7 @@ nav .navbar-nav {
 }
 
 .container .col-12 img {
-  width: 60%;
+  width: 40%;
 }
 
 .container .btn {
@@ -78,9 +78,5 @@ nav .navbar-nav {
 footer .container .inner-content {
   text-align: center;
   margin-bottom: 50px;
-}
-
-.card .card-footer {
-  color: red;
 }
 /*# sourceMappingURL=style.css.map */

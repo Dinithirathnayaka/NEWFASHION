@@ -1,0 +1,62 @@
+nav {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+nav a span {
+  color: red;
+}
+
+nav .navbar-nav {
+  padding-left: 200px;
+}
+
+.card.bg-dark {
+  text-align: center;
+}
+
+.card.bg-dark h5 {
+  margin-top: 200px;
+  color: red;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.card.bg-dark h1 {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+.card.bg-dark img {
+  height: 600px;
+}
+
+.container .col-6 h6 {
+  padding-top: 20px;
+  color: #01013f;
+}
+
+.container .col-6 .btnx {
+  margin-top: 50px;
+}
+
+.container .col-6 .btnx .btn:hover {
+  background-color: #55ACEE;
+  color: #ffffff;
+}
+
+.container .col-4 h6 {
+  color: #01013f;
+}
+
+.container .col-4 h6:hover {
+  color: red;
+}
+
+footer .container .inner-content {
+  text-align: center;
+  margin-bottom: 50px;
+}
+/*# sourceMappingURL=stylecontact.css.map */
